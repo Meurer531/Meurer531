@@ -25,20 +25,12 @@ atarvés do curso de CISSPODER, fui indicado para fazer o curso do Técnico em D
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)
 
-
----
-
-### Certificações 📜
-
-- CCNA: Introduction to Networks
-- Participação em Palestra Técnica - Fortalecendo Sistemas de Detecção de Intrusão com Machine Learning (ACTION Talents)
-
 ---
 
 ### GitHub Stats ⚡
 
 <div>
-  <a href="https://github.com/kevindsg">
+  <a href="https://github.com/Meurer531">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meurer531&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meurer531&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
   </a>
