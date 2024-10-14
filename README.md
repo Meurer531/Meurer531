@@ -43,4 +43,9 @@ atarvés do curso de CISSPODER, fui indicado para fazer o curso do Técnico em D
   <a href="https://www.instagram.com/_m3ure.r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
+  <a href="https://www.linkedin.com/in/guilherme-meurer-63419b333/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+
 ---
