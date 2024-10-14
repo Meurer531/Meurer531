@@ -13,7 +13,7 @@ atarvés do curso de CISSPODER, fui indicado para fazer o curso do Técnico em D
 
 ---
 
-### Eu já trabalhei com... 🔧
+### Eu já programei com... 🔧
 
 **Tecnologias e Ferramentas**
 
