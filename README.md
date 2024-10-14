@@ -2,15 +2,14 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Fullstack e Instrutor de Tecnologia.
+💻 Eu sou um desenvolvedor Fullstack
 
-🎓 Formado em Engenharia de Computação pela [Universidade Tecnológica Federal do Paraná (UTFPR)](http://portal.utfpr.edu.br/), Campus Pato Branco. Também sou Técnico em Informática pelo Instituto Federal  da Bahia (IFBA), Campus Eunápolis.
+📜 Tenho 15 anos, e desde os meus 8 faço cursos de tecnologia e programação com diferentes liguagens.
 
-👩‍💻 Atualmente, trabalho como Técnico de Ensino Pleno @ [SENAI Dois Vizinhos](https://www.senaipr.org.br/doisvizinhos), ministrando disciplinas como Lógica de Programação, Algoritmos, Engenharia de Software e Banco de Dados. Meu foco está em preparar os alunos para desafios reais, com ênfase no uso de linguagens de programação como C, PHP e JavaScript, além de PostgreSQL para banco de dados.
+Os primeiros cursos que fiz foi pela Sudotch, com Informática Básica, Informática Intermediária, Informárica Intermediária - II e Avançada, onde tive meu primeiro contato com HTML.
 
-🔎 Sou apaixonado por temas relacionados a sistemas embarcados, prototipação de circuitos e esquemas eletrônicos, além de tecnologias de inovação.
-
-✒️ No meu tempo livre, gosto de aprender novas tecnologias, desenvolver projetos de software e me aprofundar em eletrônica.
+Passado um tempo, fu8i me interessando mais pela área de programação e a fazer cursos propostos pelo Visão do Futuro, onde fiz cursos de CISSPODER e PowerBuilder. Mas, 
+atarvés do curso de CISSPODER, fui indicado para fazer o curso do Técnico em Desenvolvimento de Sistemas no SESI, onde estou atualmente até Março de 2025.
 
 ---
 
@@ -24,45 +23,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### Experiência Profissional 💼
-
-**SENAI Dois Vizinhos**  
-Técnico de Ensino Pleno  
-*jul. de 2024 - o momento*  
-Ministro disciplinas como Lógica de Programação, Algoritmos, Engenharia de Software e Banco de Dados.
-
-**DMC Engenharia - AutenPRO**  
-Engenheiro de Sistemas Embarcados  
-*mar. de 2022 - set. de 2023*  
-Desenvolvi sistemas embarcados, protótipos de circuitos e esquemas eletrônicos, e atuei com desenvolvimento em C.
-
-**Secretaria Municipal de Ciência, Tecnologia e Inovação - Pato Branco**  
-Desenvolvedor de Programas  
-*2021 - mar. de 2022*  
-Trabalhei ativamente no desenvolvimento de software para a cidade, promovendo inovação tecnológica.
-
-**Lorecene & Bernardi LTDA**  
-Analista de Desenvolvimento de Sistemas  
-*2019 - 2020*  
-Desenvolvi software para o sistema bancário, criando soluções práticas e eficazes para a empresa.
-
-**Universidade Tecnológica Federal do Paraná**  
-Monitor de Banco de Dados  
-*2018 - 2019*  
-Prestei suporte didático em Banco de Dados, auxiliando alunos.
-
-**OCCAM Engenharia**  
-Desenvolvedor de Software  
-*2017 - 2019*  
-Atuei no setor de projetos focado em desenvolvimento web e participei de hackathons.
-
-**Resolve Consultoria & Software**  
-Gerente de Redes e Desenvolvedor PHP  
-*2010 - 2013*  
-Liderei a estrutura de redes da empresa e desenvolvi sistemas web.
 
 ---
 
