@@ -6,7 +6,7 @@
 
 📜 Tenho 16 anos, e desde os meus 8 anos faço cursos de tecnologia e programação com diferentes liguagens.
 
-Os primeiros cursos que fiz foi pela Sudotch, com Informática Básica, Informática Intermediária, Informárica Intermediária - II e Avançada, onde tive meu primeiro contato com HTML.
+Os primeiros cursos que fiz foi pela Sudotech, com Informática Básica, Informática Intermediária, Informárica Intermediária - II e Avançada, onde tive meu primeiro contato com HTML.
 
 Passado um tempo, fui me interessando mais pela área de programação e a fazer cursos propostos pelo Visão do Futuro, onde fiz cursos de CISSPODER e PowerBuilder. Mas, 
 atarvés do curso de CISSPODER, fui indicado para fazer o curso do Técnico em Desenvolvimento de Sistemas no SESI, onde estou atualmente até Março de 2025.
