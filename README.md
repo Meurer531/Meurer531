@@ -4,7 +4,7 @@
 
 💻 Eu sou um desenvolvedor Fullstack
 
-📜 Tenho 15 anos, e desde os meus 8 faço cursos de tecnologia e programação com diferentes liguagens.
+📜 Tenho 16 anos, e desde os meus 8 faço cursos de tecnologia e programação com diferentes liguagens.
 
 Os primeiros cursos que fiz foi pela Sudotch, com Informática Básica, Informática Intermediária, Informárica Intermediária - II e Avançada, onde tive meu primeiro contato com HTML.
 
